@@ -1,3 +1,5 @@
+Note, this file is optimized for Azure DevOps. Slight differences to anchors might be necessary elsewhere.
+
 
 # Table of Contents
 - 1 [Clinical Understanding](\#1-clinical-understanding)
